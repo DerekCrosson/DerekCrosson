@@ -8,7 +8,7 @@ I do a bunch of different things and have worked in various roles. Right now I'm
 * 🤝  If you wanna collaborate on some open source stuff, let's chat!
 * 📫  You can reach me on [Twitter](https://twitter.com/nossorckered).
 
-<a href="http://www.github.com/DerekCrosson"><img src="https://github-readme-stats.vercel.app/api?username=DerekCrosson&show_icons=true&hide=&count_private=true&title_color=5dbb63&text_color=1c1917&icon_color=1c1917&bg_color=ffffff&hide_border=true&show_icons=true" alt="Stats" /></a>
+<a href="http://www.github.com/DerekCrosson"><img src="https://github-readme-stats.vercel.app/api?username=DerekCrosson&show_icons=true&hide=&count_private=true&title_color=1c1917&text_color=1c1917&icon_color=1c1917&bg_color=ffffff&hide_border=true&show_icons=true" alt="Derek Crosson's Github Stats" /></a>
 
 [![Derek Crosson's GitHub contributions](https://github-readme-streak-stats.herokuapp.com?user=DerekCrosson&date_format=j%20M%5B%20Y%5D&background=FFFFFF&ring=1c1917&fire=1c1917&currStreakLabel=1C1917&sideNums=1C1917&sideLabels=1C1917&dates=1C1917&stroke=FFFFFF00&currStreakNum=1c1917)](https://git.io/streak-stats)
 
