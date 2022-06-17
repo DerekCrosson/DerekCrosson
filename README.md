@@ -1,7 +1,7 @@
 Hey, it's Derek :wave:&#127998;
 =================================
 
-I do a bunch of different things and have worked in various roles. Right now I'm working on pivoting from being a software engineer to doing more DevOps and site reliability work, as well as transitioning into the Web3 space at some point in the future.
+I do a bunch of different things and have worked in various roles. Right now I'm working on pivoting from being a software engineer to doing more DevOps and site reliability work, as well as transitioning into the Web3 space at some point in the future. Building @knowyourcustomer in my spare time.
 
 * 🌍  I'm based in Johannesburg, South Africa.
 * 🧠  I'm learning Rust and Solidity in my spare time.
