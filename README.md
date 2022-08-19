@@ -1,11 +1,10 @@
-Hey, it's Derek :wave:&#127998;
+Hey, what's up? :wave:&#127998;
 =================================
 
-I do a bunch of different things and have worked in various roles. Right now I'm working on pivoting from being a software engineer to doing more DevOps and site reliability work, as well as transitioning into the Web3 space at some point in the future. Building [@knowyourcustomer](https://github.com/knowyourcustomer) in my spare time.
+I do a bunch of different things and have worked in various roles. Right now I'm interested in DevOps and site reliability work in the Web3 space. Got a job for me? I'm one of the best engineers you will ever hire, and I hope that doesn't sound arrogant. Building [@knowyourcustomer](https://github.com/knowyourcustomer) in my spare time.
 
 * 🌍  I'm based in Johannesburg, South Africa.
 * 🧠  I'm learning Rust and Solidity in my spare time.
-* 🤝  If you wanna collaborate on some open source stuff, let's chat!
 * 📫  You can reach me on [Twitter](https://twitter.com/nossorckered).
 
 <a href="http://www.github.com/DerekCrosson"><img src="https://github-readme-stats.vercel.app/api?username=DerekCrosson&show_icons=true&hide=&count_private=true&title_color=1c1917&text_color=1c1917&icon_color=1c1917&bg_color=ffffff&hide_border=false&show_icons=true" alt="Derek Crosson's Github Stats" /></a>
